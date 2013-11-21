@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /*
   Plugin Name:  Contact Form Intregrated With Google Maps
   Plugin URI: http://www.formget.com
@@ -69,7 +69,7 @@ function fggm_setting_page() {
         <form id="fg_ofform" action="" method="POST">
             <div id="fg_header">
                 <div class="fg_logo">
-                    <h2>Sliding Contact Form By FormGet</h2>                   
+                    <h2>Contact Form Intregrated With Google Maps</h2>                   
                 </div>
                 <a target="#">
                     <div class="fg_icon-option"> </div>
