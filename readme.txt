@@ -19,7 +19,7 @@ Contact Form Integrated With Google Maps permit you to set all the parameter suc
 You can also select the background color that will complement your form. 
 You can also specifies address of your business, with this plugin user can easily add google map with location. 
  You can add google map to your form using a simple user friendly interface of the plugin. 
-Also the desire address can be added in a few second using the iframe code which you will get after generating map of your location(Go to https://maps.google.com/) or by filling the geographical coordinate(latitude and longitude).
+Also the desire address can be added in a few second using the iframe code which you will get after generating map of your location(Go to https://maps.google.com/) or by filling the geographical coordinate(latitude and longitude)[http://universimmedia.pagesperso-orange.fr/geo/loc.htm].
  Google map comes with the marker when coordinate is added, which help you to share your spot easily.
 
 
