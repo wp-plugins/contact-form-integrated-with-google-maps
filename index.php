@@ -1,9 +1,9 @@
-<?php
+﻿<?php
 /*
   Plugin Name:  Contact Form Intregrated With Google Maps
   Plugin URI: http://www.formget.com
   Description:  Contact Form Integrated With Google Maps allows to colligate geolocation information along with contact form in simple way.
-  Version: 1.0
+  Version: 1.1
   Author: FormGet
   Author URI: http://www.formget.com
  */
