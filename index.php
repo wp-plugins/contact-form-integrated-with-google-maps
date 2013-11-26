@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
   Plugin Name:  Contact Form Intregrated With Google Maps
   Plugin URI: http://www.formget.com
