@@ -3,7 +3,7 @@ Contributors: PankajAgarwal
 Tags: contact form, contact, form, forms, form maker, contact form plugin, contact form integrated with google maps, contact form with goole map, contact form builder, contact form with recaptcha, feedback form, contact us, request form, contact button, drag and drop contact form, file upload contact form, contact form to email, contact form payments, contact for paypal, form solution, form builder, feedback, easy contact form, helpdesk
 Requires at least: 3.5.0
 Tested up to: 3.5.1
-Stable tag: 1.1
+Stable tag: 1.2
 
 Contact Form Integrated With Google Maps allows to colligate geolocation information along with contact form in simple way.
 
@@ -65,6 +65,13 @@ This section describes how to install the plugin and get it working.
 
 
 == Changelog ==
+
+= Version 1.2 =
+
+* Iframe textarea bux fixed.
+* Zoom bug fix.
+* Default latitude and longitude added for demo.
+* CSS improved.
 
 = Version 1.1 =
 * Added setting of zoom level.
