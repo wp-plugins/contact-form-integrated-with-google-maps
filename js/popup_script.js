@@ -15,7 +15,8 @@ jQuery(document).ready(function() {
         "display": "block",
         "top": "0",
         "margin-top": mid_height - 100,
-        "margin-left": canvaswidth - 35
+        "margin-left": canvaswidth - 35,
+        "z-index" : "1000"
     });
     jQuery('div.fggm_contac_us_img').click(function() {
         jQuery('div#fggm-box-popup').css({
