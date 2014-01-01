@@ -1,3 +1,4 @@
+$.noConflict();
 jQuery(document).ready(function() {
     var screen_height = window.screen.height;
     var screen_width = window.screen.width;
