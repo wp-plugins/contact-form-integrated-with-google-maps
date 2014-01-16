@@ -1,0 +1,149 @@
+div.fggmgm_contac_us_img{
+    width:34px;
+    height:200px;
+    position:fixed;
+    background: url(../image/button.png) no-repeat center center;
+}
+#fggmgm-box-popup{
+    background-image: url("../image/overlay.png");
+}
+#fggmgm_form_show{
+    width:800px;
+    height:500px;
+    position: relative;
+    border: 3px solid white;
+    background-color: rgb(17, 86,124);
+    /*background-color:#FFEAAE;*/
+    background-color:#fff;
+    color: white;
+    opacity: 1;
+    filter: alpha(opacity=100);
+    border-radius: 5px;
+    -webkit-box-shadow: 0 0 10px #fff;
+    box-shadow: 0 0 10px #fff;
+    border-radius: 5px;
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding-box;
+    background-clip: padding-box;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    transition: all 0.5s ease;	
+}
+
+.fggm_form_area{
+   	max-width: 420px !important;
+    height:488px;
+    border-right: 1px solid #5C5C5C;
+    padding-left:40px;
+	padding-right: 35px;
+    padding-top: 15px;
+    float:left;
+	overflow-y: scroll;
+}
+#fggmgm_form_show .fgg_address_section {
+width:398px;
+float: left;
+height: 497px;
+margin-left: 1px;
+}
+
+#googleMap{
+    height:75.8%;
+    width:400px;
+    float: left;
+    margin:0;
+    padding:0;
+    border: 2px solid #9fb7c4;
+}
+.map_heading{
+    color: white;
+    height:30px;
+    font-size: 19px;
+    width:398px;
+    float:left;
+    font-family:Georgia,serif;
+    padding-left: 9px;
+    padding-top:4px;
+    background-color: #404a4f;
+}
+.contact_address{
+    color:#4f4f4f;
+    height:15%;
+    float:left;
+    width:340px;
+    font-size: 14px;
+    font-family:Arial,Helvetica,sans-serif;
+    margin-left:9px !important;
+    display: block;
+    -webkit-margin-before: 0.8em;
+     -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px; 
+} 
+input.color{
+    border-radius: 3px;
+}
+div#getCords{
+    width:94px;
+    height:20px;
+    float:right;
+    margin-right:50px;
+    border-top: 1px solid #96d1f8;
+   background: #65a9d7;
+   background: -webkit-gradient(linear, left top, left bottom, from(#3e779d), to(#65a9d7));
+   background: -webkit-linear-gradient(top, #3e779d, #65a9d7);
+   background: -moz-linear-gradient(top, #3e779d, #65a9d7);
+   background: -ms-linear-gradient(top, #3e779d, #65a9d7);
+   background: -o-linear-gradient(top, #3e779d, #65a9d7);
+   padding: 5px 10px;
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 14px;
+   font-family: Georgia, serif;
+   text-decoration: none;
+   vertical-align: middle;
+   cursor:pointer;
+}
+div#getCords:hover{
+     border-top-color: #28597a;
+   background: #28597a;
+   color: #ccc;  
+}
+div#getCords:active{
+   border-top-color: #1b435e;
+   background: #1b435e;  
+}
+div.get_lat_lng{
+    width:480px;
+}
+.outer_div_builder_iframe{
+width: 1010px;
+}
+.inner_div_builder_iframe{
+position: relative;
+-webkit-resize:vertical; 
+    -moz-resize:vertical;
+    resize:vertical;
+    min-height:750px;
+	overflow-x:hidden;
+}
+#iframebox {
+    margin-top:-45px;  /* clipping top of page */
+    overflow:hidden;
+    -webkit-resize:none;
+    -moz-resize:none;
+    resize:none;
+}
+#fggm_close_box {
+    float: right;
+    top: -23px !important;
+    right: -21px;
+    position: absolute;    
+}
