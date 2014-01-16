@@ -66,7 +66,7 @@ This section describes how to install the plugin and get it working.
 
 == Changelog ==
 
-= Version 1.6 =
+= Version 1.7 =
 
 * CSS bug fixed.
 
