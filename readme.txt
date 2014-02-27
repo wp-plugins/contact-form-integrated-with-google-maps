@@ -35,7 +35,7 @@ Also the desire address can be added in a few second using the iframe code which
 
 > **FormGet Video Tutorials** 
 > 
-> * So to learn about FormGet from the beginning, FormGet have come up with the [video tutorial](http://www.formget.com/formget-video-tutorials-guide/) series.
+> * To learn about FormGet from the beginning, FormGet have come up with the [video tutorial](http://www.formget.com/formget-video-tutorials-guide/) series.
 > 
 > 
 
