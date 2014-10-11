@@ -90,60 +90,46 @@ This section describes how to install the plugin and get it working.
 = Version 2.3 =
 * Login issue fixed.
 
-
 = Version 2.2 =
 * CSS issue fixed.
 * Now FormGet become more secure.
 
-
 = Version 2.1 =
-
 * CSS issue fixed.
 * loading time issue fixed.
 
-
 = Version 2.0 =
-
 * Form CSS improved.
 * Can change button text as well as color.
 * Admin panel css improved. 
 * Notice bug fixed.
 
 = Version 1.9 =
-
 * Header bug fixed.
 
 = Version 1.8 =
-
 * Form css issues resolved.
 * video tutorials added.
 * background color option removed (not required any more).
 
 = Version 1.7 =
-
 * CSS bug fixed.
 
 = Version 1.6 =
-
 * Tab visibility issues resolved.
 
 = Version 1.5 =
-
 * Jquery conflict issues resolved.
 
 = Version 1.4 =
-
 * CSS issues resolved.
 
-
 = Version 1.3 =
-
 * Optional panel css improved.
 * Contact us tab click bug fixed.
 * Other issues resolved.
 
 = Version 1.2 =
-
 * iframe textarea bux fixed.
 * Zoom bug fix.
 * Default latitude and longitude added for demo.
