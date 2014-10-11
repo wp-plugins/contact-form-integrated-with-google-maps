@@ -82,7 +82,7 @@ This section describes how to install the plugin and get it working.
 == Changelog ==
 
 = Version 2.5 =
-* Security Issue Patched. Thanks to James H from g0blin.co.uk.
+* Security Issue Patched. Thanks to James H from g0blin.co.uk
 
 = Version 2.4 =
 * CSS improved.
