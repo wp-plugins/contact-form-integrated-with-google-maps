@@ -141,7 +141,7 @@ div#getCords:active{
    border-top-color: #1b435e;
    background: #1b435e;  
 }
-div.get_lat_lng{
+div.get_lat_lng, .shortcode_wrap{
     width:480px;
 }
 .outer_div_builder_iframe{
